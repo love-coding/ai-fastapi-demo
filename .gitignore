@@ -1,0 +1,17 @@
+# 虚拟环境
+venv/
+.venv
+
+#环境变量文件
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+*.iml
+
+# macOS
+.DS_store
